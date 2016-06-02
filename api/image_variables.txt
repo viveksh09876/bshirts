@@ -1,0 +1,117 @@
+bottom-cut-style
+	
+	"bottom-cut-modern"
+button
+	
+	"buttons-button-white"
+buttons-style
+	
+	"buttons-single-button-placket"
+collar
+	
+	"normal-collar-the-spread"
+collar-height
+	
+	"collar-height-normal"
+collar-piping
+	
+	""
+collar-style
+	
+	"collar-the-spread"
+collar-swatch-inner
+	
+	""
+collar-swatch-outer
+	
+	""
+contrast-button-hole-color
+	
+	"button-hole-color-white"
+contrast-collar-piping-style
+	
+	"contrasts-collar-piping-none"
+contrast-collar-style
+	
+	"contrasts-collar-none"
+contrast-cuff-piping-style
+	
+	"contrasts-cuff-piping-none"
+contrast-cuff-style
+	
+	"contrasts-cuff-none"
+contrast-placket-piping-style
+	
+	"contrasts-placket-piping-none"
+contrast-placket-style
+	
+	"contrasts-placket-none"
+contrast-pocket-style
+	
+	"contrasts-pocket-none"
+cuff
+	
+	"angled-cuff-single-convertible"
+cuff-piping
+	
+	""
+cuff-style
+	
+	"cuff-single-convertible"
+cuff-swatch-inner
+	
+	""
+cuff-swatch-outer
+	
+	""
+elbow-patch
+	
+	"extras-elbow-none"
+elbow-patch-swatch
+	
+	""
+extras-elbow
+	
+	"extras-elbow-none"
+extras-epaulette
+	
+	"extras-shoulder-none"
+fabric
+	
+	"BC079"
+placket
+	
+	"single-placket-french-front"
+placket-piping
+	
+	""
+placket-style
+	
+	"placket-french-front"
+placket-swatch-button
+	
+	""
+placket-swatch-inner
+	
+	""
+placket-swatch-outer
+	
+	""
+pocket
+	
+	"no-pocket-none"
+pocket-style
+	
+	"pocket-none"
+pocket-swatch
+	
+	""
+shoulder-epa
+	
+	"extras-shoulder-none"
+shoulder-epa-swatch
+	
+	""
+sleeve-style
+	
+	"sleeve-long"
